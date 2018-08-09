@@ -1,0 +1,11 @@
+{
+  "name": "random-vowel-names",
+  "version": "1.0.0",
+  "description": "Get random names starting with vowels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit D",
+  "license": "MIT"
+}
